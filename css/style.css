@@ -1,0 +1,43 @@
+/* Reset some basic stuff */
+body, h1, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  front-fmaily: "Helvetic Neue", Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+  color: #333;
+  padding: 40px;
+}
+
+h1 {
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+nev a:hover {
+  text-decoration: underline;
+}
