@@ -5,7 +5,7 @@ body, h1, p, ul {
 }
 
 body {
-  front-fmaily: 'Baloo 2', sans-serif;
+  font-fmaily: 'Baloo 2', sans-serif;
   line-height: 1.6;
   background-color: #fdfdfd;
   color: #333;
@@ -38,6 +38,6 @@ nav a {
   font-weight: bold;
 }
 
-nev a:hover {
+nav a:hover {
   text-decoration: underline;
 }
