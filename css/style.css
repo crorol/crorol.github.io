@@ -23,7 +23,7 @@ h2 {
   font-family: 'Baloo 2', cursive, sans-serif;
   color: #333333;
   margin-top: 80px;
-  margin-bottom; 20px;
+  margin-bottom: 20px;
   font-size: 24px;
 }
 
@@ -42,17 +42,6 @@ nav ul {
 nav li {
   display: inline-block;
   margin-right: 15px;
-  position: relative;
-  padding-left: 20px;
-}
-
-nav li::before {
-  content: "■";
-  position: absolute;
-  left: 0;
-  color: #333;
-  font-size: 16px;
-  line-height: 1.6;
 }
 
 nav a {
